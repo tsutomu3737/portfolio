@@ -1,5 +1,5 @@
 <template>
   <div>
-    <router-view></router-view>
+    <h3>趣味一覧</h3>
   </div>
 </template>

@@ -1,4 +1,3 @@
-ssh化テストその2
 # portfolio
 
 ## Project setup

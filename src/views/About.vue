@@ -1,5 +1,5 @@
 <template>
   <div>
-    <router-view></router-view>
+    <h3>自己紹介</h3>
   </div>
 </template>
